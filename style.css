@@ -59,6 +59,10 @@ h1{
     color: var(--text-primary);
 }
 
+p {
+    color: var(--text-body);
+}
+
 .wrapper{
     max-width: 650px;
     margin: 40px auto;
@@ -71,6 +75,23 @@ a:link{
 
 a:visited{
     color: var(--text-link);
+}
+
+.semester{
+    padding-bottom: 10px;
+    border-bottom: 5px dotted;
+    border-color: var(--surface-element-0);
+}
+
+.book{
+    display: flex;
+    padding: 15px;
+
+}
+
+.bookLabel{
+    margin: 0;
+    margin-left: 10px;
 }
 
 svg{

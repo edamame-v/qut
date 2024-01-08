@@ -63,6 +63,11 @@ p {
     color: var(--text-body);
 }
 
+a {
+    color: var(--text-link);
+}
+
+
 .wrapper{
     max-width: 650px;
     margin: 40px auto;

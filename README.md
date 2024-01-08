@@ -1,2 +1,2 @@
-# QUT Notes
-Place for Sharing my QUT Degree Notes.
+# Notes Webpage
+The Branch for GH Pages Deployment.

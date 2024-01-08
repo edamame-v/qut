@@ -1,2 +1,2 @@
-# qut
-Place for Sharing my QUT Degree Notes
+# QUT Notes
+Place for Sharing my QUT Degree Notes.

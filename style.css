@@ -20,6 +20,7 @@
     --text-tag: #1e66f5;
     --text-background: rgba(172, 176, 190, 0.5);
     --text-cursor: #dc8a78;
+    --faculty-health: #ff671f;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -45,6 +46,7 @@
         --text-tag: #89b4fa;
         --text-background: rgba(88, 91, 112, 0.5);
         --text-cursor: #f5e0dc;
+        --faculty-health: #ff671f;
     }
 
 }

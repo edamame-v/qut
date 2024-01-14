@@ -3,7 +3,7 @@ authors = ["Edme - Dawn"]
 language = "en"
 multilingual = false
 src = "src"
-title = "LQB388-Notes"
+title = "Medical Physiology 1 Notes"
 
 [preprocessor]
 
